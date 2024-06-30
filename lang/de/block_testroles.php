@@ -25,8 +25,8 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['pluginname'] = 'Show Roles';
-$string['show_roles'] = 'Current Roles';
-$string['noroles'] = 'You have no roles in this course.';
-$string['notloggedin'] = 'You must be logged in to see your roles.';
-$string['testroles'] = 'Test Plugin Show Roles';
+$string['pluginname'] = 'Rollen anzeigen';
+$string['show_roles'] = 'Aktuelle Rollen';
+$string['noroles'] = 'Sie haben keine Rollen in diesem Kurs.';
+$string['notloggedin'] = 'Sie müssen eingeloggt sein, um Ihre Rollen zu sehen.';
+$string['testroles'] = 'Test-Plugin Rollen anzeigen';

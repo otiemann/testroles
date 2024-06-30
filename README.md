@@ -1,8 +1,6 @@
 # testroles #
 
-TODO Describe the plugin shortly here.
-
-TODO Provide more detailed description here.
+This Moodle plugin displays the roles a current user is enrolled in in the currently selected course. For training purposes only.
 
 ## Installing via uploaded ZIP file ##
 
